@@ -354,3 +354,6 @@
 	path = ext/providers/bigip
 	url = https://github.com/terraform-providers/terraform-provider-bigip
 	branch = stable-website
+[submodule "ext/providers/aviatrix"]
+	path = ext/providers/aviatrix
+	url = https://github.com/AviatrixSystems/terraform-provider-aviatrix.git
